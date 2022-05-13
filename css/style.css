@@ -455,6 +455,8 @@ h5, h6 {
 .section-2 {
     background-color: var(--orange);
     color: var(--txt);
+
+    
 }
 
 .section-3 {
@@ -579,6 +581,7 @@ table {
     border-radius: 1rem;
     background-color: var(--txt);
     font-size: 2rem;
+    color: var(--white);
 }
 
 .table tbody th {
